@@ -3,7 +3,7 @@ title: "Augmented Paper @ HackMIT"
 layout: post
 date: 2016-09-18
 # tag: jekyll
-image: '<div style = "background: url(/assets/images/james.jpg)">'
+image: '<div style="background:url(/assets/images/james.jpg)">'
 headerImage: true
 projects: true
 coursework: false
