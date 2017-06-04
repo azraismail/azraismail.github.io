@@ -1,0 +1,36 @@
+---
+title: "DroneCAD @ Aerohacks"
+layout: post
+date: 2016-11-06
+# tag: jekyll
+# image: /assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+coursework: false
+research: false
+awards: false
+hidden: true # don't count this post in blog pagination
+description: "Regeneration of large 3-dimensional physical objects in a CAD environment with a Parrot drone."
+#jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: azra-ismail
+externalLink: false
+
+---
+
+My team at Aerohacks (an aerospace themed hackathon at Georgia Tech) used a Parrot AR Drone 2.0 to navigate around a structure and record distance measurements from the onboard IR sensors to help create a CAD model containing a set of numerous points traversed on the structure by the drones' flight path around the object. The drone traverses the length of the whole structure and moves around the structure in layers. For each horizontal slice, the drone uses the IR sensors (added using an m-bed microcontroller) to determine the distance from it to the structure. Using the pre-determined motion (which we have chosen to be a square in this case for stability and a simple proof of concept), and the reading from the sensor, we can determine the coordinate for the point the drone is at.
+
+<!-- img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/437/141/datas/gallery.jpg" align="center" width="100" height="150" /-->
+
+#### Tags
+
+- C/C++
+- Visual Basic
+- CAD
+- parrot ar drone 2.0
+- sensors
+- python
+- mbed
+- node.js
+
+---
+[Check it out](https://devpost.com/software/dronecad) here. If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues).

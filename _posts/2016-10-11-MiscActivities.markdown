@@ -1,0 +1,30 @@
+---
+title: "Miscellaneous Activities"
+layout: post
+date: 2015-01-01
+# tag: jekyll
+# image: /assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: false
+coursework: false
+research: false
+awards: false
+hidden: true # don't count this post in blog pagination
+description: "An improvisational AI that unleashes the creative power of an entire orchestra to music producers and artists."
+#jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: azra-ismail
+externalLink: false
+
+---
+
+#### Skills
+
+- Python
+- Signal Processing
+- Arduino
+- Wolfram Alpha API
+
+---
+
+[Check it out](http://devpost.com/software/orchestrai) here.
+If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues).

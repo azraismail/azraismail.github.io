@@ -1,0 +1,33 @@
+---
+title: "Paperless @ HackGT"
+layout: post
+date: 2016-09-23
+# tag: jekyll
+# image: /assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+coursework: false
+research: false
+awards: false
+hidden: true # don't count this post in blog pagination
+description: "Convert handwritten letters to digital text."
+#jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: azra-ismail
+externalLink: false
+
+---
+
+Many people are left with poor fine motor skills due to an accident, or medical condition. This makes it difficult for the person to write and type and the only way to record text is to use some form of speech to text application. However, my team at HackGT wanted to provide people with such limited motor ability another option, one of being able to write with their limited skills.
+
+We created a system that can record a person's hand movements while writing and convert it to text. We do this by adding an accelerometer to a pen (via an Arduino), and apply machine learning on the recorded data to determine what letter has been written. Initially, we tried working with a Pebble watch to make the experience more fluid but we were constrained by its limited capabilities.
+
+#### Tags
+
+- Pebble
+- Arduino
+- sci-kit learn
+
+---
+
+[Check it out](http://devpost.com/software/paperless) here.
+If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues).

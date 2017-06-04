@@ -1,0 +1,33 @@
+---
+title: "Open Source Development"
+layout: post
+date: 2015-09-10
+# tag: jekyll
+# image: /assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+coursework: false
+research: false
+awards: false
+hidden: true # don't count this post in blog pagination
+description: "An open source platform for global development"
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: azra-ismail
+externalLink: false
+
+---
+
+The idea behind OSD is to enable anyone, anywhere in the world to start a development project in their community by providing access to resources and mentors through a global platform. I was part of an interdisciplinary Design Team for this project where we worked on creating a participatory design model that would enable anyone to carry out the project. In the process, I experimented with the Stanford d.school design methods and design thinking.
+
+The project was eventually discontinued due to questions regarding scalability.
+
+#### Tags
+
+- Participatory Design
+- Design Thinking
+- Global Development
+
+---
+
+[Check it out](http://opensourcedev.weebly.com/) here.
+If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues).

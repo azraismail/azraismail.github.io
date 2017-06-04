@@ -1,0 +1,34 @@
+---
+title: "Drink and D-rive @ HackDuke"
+layout: post
+date: 2015-11-10
+# tag: jekyll
+# image: /assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+coursework: false
+research: false
+awards: false
+hidden: true # don't count this post in blog pagination
+description: "Analyze speech inputs and determine if the speaker is feeling drowsy or intoxicated"
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: azra-ismail
+externalLink: false
+
+---
+
+According to the AAA Foundation for Traffic Safety, ONE in FIVE accidents are caused due to drowsy and drunk driving. To tackle this problem, my team at HackDuke created a system called 'Drink and D-rive' that detects drunk/drowsy driving.
+
+The system developed worked as follows: A driver, upon entering her/his car, is asked to speak out a few sentences to the Raspberry Pi mounted on the dashboard. The device (with the support from an Arduino) analyzes the input voice, and determines if the driver is fit to drive. The speech analysis is done using the IBM BlueMix API which converts the speech to text and provides timestamps for each word. We used this to determine whether the driver was drunk - certain words and phonetics would be more difficult and would take longer to pronounce when drunk. If she/he is determined not fit to drive, the tool dispatches text messages to close family members/friends alerting them of the driver's location, following which they may take action.
+
+#### Tags
+
+- Arduino (with microphone, and GSM and WIFI shields)
+- Python
+- Raspberry Pi
+- IBM BlueMix API
+
+---
+
+[Check it out](http://devpost.com/software/drink-and-d-rive) here.
+If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues).

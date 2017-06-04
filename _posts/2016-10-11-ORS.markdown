@@ -1,0 +1,31 @@
+---
+title: "Ubiquitous Computing Group"
+layout: post
+date: 2017-01-08
+# tag: jekyll
+# image: /assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: false
+coursework: false
+research: true
+hidden: true # don't count this post in blog pagination
+description: "Ubiquitous Computing"
+#jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: azra-ismail
+externalLink: false
+
+---
+Working as part of the COSMOS initiative - COmputational Skins for Multi-functional Objects and Systems, that aims to develop a skin that can be layered on top of everyday objects to provide new interactions. Currently conducting experiments and measurements with triboelectric nanogenerators to determine applications and ideal structures to harness energy for novel interactions. Also working on modifying the kernel of a Nexus 5 and Raspberry Pi to obtain raw capacitance values from their touchscreens to extend their interface by enabling input from an inkjet printed circuit. 
+
+Advised by: Dr. Gregory Abowd
+
+#### Tags
+- Human-Computer Interaction
+- Ubiquitous Computing
+- Design
+- Prototyping
+- Embedded programming
+
+---
+
+If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues).

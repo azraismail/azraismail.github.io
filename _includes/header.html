@@ -1,26 +1,65 @@
-<header class="site-header">
+<style>
+    h1 {
+      font-family: 'Josefin Sans', sans-serif;
+      margin: 0.6em 0;
+    }
 
-  <div class="wrap">
-    <a class="site-title" href="{{ site.baseurl }}"><img src="https://unsplash.it/500/150"></a>
-    
-    <nav class="navbar">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>          
-        </div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="{{ site.baseurl }}">home</a></li>
-            <li><a href="{{ site.baseurl }}/about">about</a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
-    </div>
-  </nav>
+    .smallerFont {
+        color: #FF4500;
+        font-size: 5.5rem;
+        font-weight: 700;
+    }
 
-</header>
+    .bigFont {
+      color: #000000;
+      font-size: 5.3rem;
+      font-weight: 300;
+    }
+</style>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100449339-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+{% if page.title == "Home"
+   or page.title == "Blog"
+   or page.title == "Projects"
+   or page.title == "Research"
+   or page.title == "Awards"
+   or page.title == "Coursework"
+   or page.title == "Tags"
+%}{% assign showHeader = true %}{% endif %}
+
+{% if showHeader == true %}
+    <header class="header-home {% if site.animation %}animated{% endif %}">
+        {% if site.about %}
+            <a class="link" href="{{ site.url }}/about">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+            </a>
+
+        {% else %}
+            <span class="link">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+            </span>
+        {% endif %}
+
+        <h1>
+          <span class="smallerFont">Azra</span>
+          <span class="bigFont">Ismail</span>
+        </h1>
+
+        <!-- <h1 class="title">{{ site.name }}</h1> -->
+        <h2 class="description">{{ site.bio }}</h2>
+
+        {% include social-links.html %}
+    </header>
+{% endif %}
+
+{% include nav.html %}

@@ -1,0 +1,30 @@
+---
+title: "Augmented Paper @ HackMIT"
+layout: post
+date: 2016-09-18
+# tag: jekyll
+# image: /assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+coursework: false
+research: false
+awards: false
+hidden: true # don't count this post in blog pagination
+description: "Augmenting ordinary paper with new interactive experiences"
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: azra-ismail
+externalLink: false
+
+---
+
+My team at HackDuke created a platform that lets a user interact with the text on any piece paper as if it were hyperlinks. The (augmented) paper allows users to physically touch keywords and instantly receive Google search results. The user first needs to take a picture of the paper being interacted with and place it on the enhanced clipboard and can then go about touching pieces of text to get more information. We use the Google cloud vision API to determine the text and its coordinates. I worked on obtaining information about the location of the user's finger by using 2 ultrasonic sensors, and determined the mapping algorithm. By mapping the text to the finger's location - we could pull up the relevant links on a laptop.
+
+#### Tags
+
+- Python
+- Arduino (with sonar)
+
+---
+
+[Check it out](http://devpost.com/software/augmented-paper) here.
+If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues).

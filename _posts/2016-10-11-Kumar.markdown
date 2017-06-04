@@ -1,0 +1,32 @@
+---
+title: "Technology and Design for Empowerment (TanDEm)"
+layout: post
+date: 2016-04-20
+# tag: jekyll
+# image: /assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: false
+coursework: false
+research: true
+hidden: true # don't count this post in blog pagination
+description: "Ethnographic Research on health systems in Delhi"
+#jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: azra-ismail
+externalLink: false
+
+---
+Over summer 2016, I carried out an ethnographic study in Delhi (India), to understand people's motivations and experiences in accessing the healthcare system, with a focus on underserved populations. I conducted interviews and observational studies with doctors, staff, frontline health workers and users. In the process, I learnt about user-centered design, conducting qualitative research and best practices in ICTD.
+
+Advised by: Dr. Neha Kumar
+
+#### Tags
+- Ethnography
+- Qualitative research
+- Design Thinking
+- User-centered design
+
+---
+
+[Check it out](http://www.tandem.gatech.edu/global-health/designing-for-use-and-non-use-a-perspective-from-neighborhood-clinics/) here.
+You can follow my [blog](https://healthdelhiblog.wordpress.com/) here.
+If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues).
