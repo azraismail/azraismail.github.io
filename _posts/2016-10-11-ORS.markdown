@@ -9,13 +9,13 @@ projects: false
 coursework: false
 research: true
 hidden: true # don't count this post in blog pagination
-description: "Ubiquitous Computing"
+description: "building low-cost novel interfaces"
 #jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 author: azra-ismail
 externalLink: false
 
 ---
-Working as part of the COSMOS initiative - COmputational Skins for Multi-functional Objects and Systems, that aims to develop a skin that can be layered on top of everyday objects to provide new interactions. Currently conducting experiments and measurements with triboelectric nanogenerators to determine applications and ideal structures to harness energy for novel interactions. Also working on modifying the kernel of a Nexus 5 and Raspberry Pi to obtain raw capacitance values from their touchscreens to extend their interface by enabling input from an inkjet printed circuit. 
+I am working as part of the COSMOS initiative - COmputational Skins for Multi-functional Objects and Systems, that aims to develop a skin that can be layered on top of everyday objects to provide new interactions. This involves experiments and measurements with low-cost triboelectric nanogenerators to determine applications and ideal structures to harness energy for novel interactions.
 
 Advised by: Dr. Gregory Abowd
 
