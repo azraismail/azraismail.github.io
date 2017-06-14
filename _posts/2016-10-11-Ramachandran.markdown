@@ -9,7 +9,7 @@ projects: false
 coursework: false
 research: true
 hidden: true # don't count this post in blog pagination
-description: "built a test bed for a network for IoT devices"
+description: "test bed for a network for IoT devices"
 #jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 author: azra-ismail
 externalLink: false
