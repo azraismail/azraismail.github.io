@@ -1,5 +1,5 @@
 ---
-title: "SAFEphilLY @ PennApps"
+title: "SAFEphilLY"
 layout: post
 date: 2016-09-09
 # tag: jekyll
@@ -10,7 +10,7 @@ coursework: false
 research: false
 awards: false
 hidden: true # don't count this post in blog pagination
-description: "Applying machine learning on crime statistics in Philadelphia to determine the safest walking path from point A to B"
+description: "Applying machine learning on crime statistics in Philadelphia to determine the safest walking paths"
 #jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 author: azra-ismail
 externalLink: false
