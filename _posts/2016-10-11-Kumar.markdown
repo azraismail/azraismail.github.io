@@ -15,7 +15,9 @@ author: azra-ismail
 externalLink: false
 
 ---
-Over summer 2016, I carried out an ethnographic study in Delhi (India), to understand people's motivations and experiences in accessing the healthcare system, with a focus on underserved populations. I conducted interviews and observational studies with doctors, staff, frontline health workers and users. In the process, I learnt about user-centered design, conducting qualitative research and best practices in ICTD.
+I am currently working on building diagnostic tools for neonatal health in low-resource settings in collaboration with Dr. Mayank Goel at Carnegie Mellon University. The system will take the form of a low-powered device that can connect to a mobile phone and provide results through an app. The initial prototype will monitor temperature, heartbeat and breathing pattern to identify anomalies.
+
+This work builds on my research over summer 2016, where I carried out an ethnographic study in Delhi (India), to understand people's motivations and experiences in accessing the healthcare system, with a focus on underserved populations. I conducted interviews and observational studies with doctors, staff, frontline health workers and users. In the process, I learnt about user-centered design, conducting qualitative research and best practices in ICTD.
 
 Advised by: Dr. Neha Kumar
 
@@ -24,6 +26,7 @@ Advised by: Dr. Neha Kumar
 - Qualitative research
 - Design Thinking
 - User-centered design
+- Health
 
 ---
 
