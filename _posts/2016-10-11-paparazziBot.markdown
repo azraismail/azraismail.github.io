@@ -10,7 +10,7 @@ coursework: false
 research: false
 awards: false
 hidden: true # don't count this post in blog pagination
-description: "A bot that can look for a face in the crowd and can be controlled remotely."
+description: "a bot that can look for a face in the crowd"
 author: azra-ismail
 externalLink: false
 
