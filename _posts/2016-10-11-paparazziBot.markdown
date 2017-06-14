@@ -10,7 +10,7 @@ coursework: false
 research: false
 awards: false
 hidden: true # don't count this post in blog pagination
-description: "a bot that can look for a face in the crowd"
+description: "finding a face in the crowd with a bot"
 author: azra-ismail
 externalLink: false
 
