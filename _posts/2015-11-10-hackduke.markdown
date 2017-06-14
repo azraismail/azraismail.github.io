@@ -17,7 +17,7 @@ externalLink: false
 
 ---
 
-According to the AAA Foundation for Traffic Safety, ONE in FIVE accidents are caused due to drowsy and drunk driving. To tackle this problem, my team at HackDuke created a system called 'Drink and D-rive' that detects drunk/drowsy driving.
+According to the AAA Foundation for Traffic Safety, one in five accidents are caused due to drowsy and drunk driving. To tackle this problem, my team at HackDuke created a system called 'Drink and D-rive' that detects drunk/drowsy driving.
 
 The system developed worked as follows: A driver, upon entering her/his car, is asked to speak out a few sentences to the Raspberry Pi mounted on the dashboard. The device (with the support from an Arduino) analyzes the input voice, and determines if the driver is fit to drive. The speech analysis is done using the IBM BlueMix API which converts the speech to text and provides timestamps for each word. We used this to determine whether the driver was drunk - certain words and phonetics would be more difficult and would take longer to pronounce when drunk. If she/he is determined not fit to drive, the tool dispatches text messages to close family members/friends alerting them of the driver's location, following which they may take action.
 
