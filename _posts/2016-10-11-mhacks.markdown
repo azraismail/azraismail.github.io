@@ -1,5 +1,5 @@
 ---
-title: "OrchestrAI @ Mhacks"
+title: "OrchestrAI"
 layout: post
 date: 2016-10-09
 # tag: jekyll
@@ -10,14 +10,14 @@ coursework: false
 research: false
 awards: false
 hidden: true # don't count this post in blog pagination
-description: "An improvisational AI that unleashes the creative power of an entire orchestra to music producers and artists."
+description: "providing a backup orchestra to budding artists"
 #jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 author: azra-ismail
 externalLink: false
 
 ---
 
-My team built an AI orchestra, capable of improvising musical pieces in real time, inspiring and adapting to the humans it is playing with, and generating completely new songs based on its experience. We organized these three capabilities under two distinct pipelines within our platform.
+My team at Mhacks built an AI orchestra, capable of improvising musical pieces in real time, inspiring and adapting to the humans it is playing with, and generating completely new songs based on its experience. We organized these three capabilities under two distinct pipelines within our platform.
 
 Ad Hoc improvisation and procedural generation was accomplished through our Neural Pipeline. I worked on the real-time playing and implemented the hardware and signal processing parts of the project. Real-time adaptive playing was accomplished through the Improvisational Pipeline. The real-time part consisted of an Arduino and two microphones (one from a set of Apple ear pods) mounted to a classical violin, which picked up the notes being played on the violin. We isolated these notes by sampling based on the beat. The note itself was determined by running a Fast Fourier Transform on the signal received and then extracting the most prominent frequency (a note is essentially a particular frequency). Finally, these extracted notes were mapped to new notes based on Music Theory, using concepts such as the pentatonic scale, perfect fourths, etc.
 
