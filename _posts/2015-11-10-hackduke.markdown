@@ -1,5 +1,5 @@
 ---
-title: "Drink and D-rive @ HackDuke"
+title: "Drink and D-rive"
 layout: post
 date: 2015-11-10
 # tag: jekyll
