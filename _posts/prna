@@ -1,0 +1,26 @@
+---
+title: "Philips Research North America"
+layout: post
+date: 2017-05-15
+# tag: jekyll
+# image: /assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: false
+coursework: false
+research: true
+awards: false
+hidden: true # don't count this post in blog pagination
+description: "solutions for in-home aging"
+#jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: azra-ismail
+externalLink: false
+
+---
+As a research intern in the Acute Care Solutions department, I worked on designing and developing solutions for improving the quality of life of older adults with mild cognitive impairment and comorbidity.
+
+#### Tags
+
+- elderly
+- comorbidity
+
+---
