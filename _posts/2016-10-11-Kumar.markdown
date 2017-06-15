@@ -1,5 +1,5 @@
 ---
-title: "Technology and Design for Empowerment (TanDEm)"
+title: "Technology and Design for Empowerment"
 layout: post
 date: 2016-04-20
 # tag: jekyll
