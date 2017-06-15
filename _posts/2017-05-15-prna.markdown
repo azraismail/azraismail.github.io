@@ -16,7 +16,7 @@ author: azra-ismail
 externalLink: false
 
 ---
-As a research intern in the Acute Care Solutions department, I worked on designing and developing solutions for improving the quality of life of older adults with mild cognitive impairment and comorbidity.
+As a research intern in the Acute Care Solutions department, I am currently working on designing and developing solutions for improving the quality of life of older adults with mild cognitive impairment and comorbidity.
 
 #### Tags
 
