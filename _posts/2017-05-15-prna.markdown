@@ -16,7 +16,7 @@ author: azra-ismail
 externalLink: false
 
 ---
-As a research intern in the Acute Care Solutions department, I am working on designing and developing solutions for improving the quality of life of older adults with mild cognitive impairment and comorbidity.
+As part of the research group for in-home technologies, I designed multiple state-of-the-art assistive technologies for future potential projects. I developed a prototype of the most feasible idea---an Android app that collects audio and BLE sensor data and delivers medication reminders based on social context. To achieve this, I generated a home environment audio dataset for training, tagged with 3 social contexts - alone, in a group, not at home. On this dataset, I then conducted feature extraction (mel frequency cepstral coefficients) from audio data and analyzed results (using ROC curves and error rates) of using various machine learning algorithms for classifying data into social context.
 
 #### Tags
 
