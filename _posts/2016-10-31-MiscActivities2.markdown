@@ -1,5 +1,5 @@
 ---
-title: "Traveling Salesman on an FPGA bot"
+title: "Traveling Salesman on FPGA bot"
 layout: post
 date: 2015-12-1
 # tag: jekyll
