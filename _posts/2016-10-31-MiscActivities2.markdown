@@ -5,12 +5,12 @@ date: 2015-12-1
 # tag: jekyll
 # image: /assets/images/jekyll-logo-light-solid.png
 headerImage: true
-projects: false
+projects: true
 coursework: false
 research: false
 awards: false
 hidden: true # don't count this post in blog pagination
-description: "Using the Braitenberg Method in Solving Traveling SalesBot Problem on DE2Bot"
+description: "using the braitenberg approach to solve the traveling salesman problem on an FPGA bot"
 #jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 author: azra-ismail
 externalLink: false
@@ -26,5 +26,4 @@ I used the Braitenberg method to develop an algorithm to solve the Traveling Sal
 
 ---
 
-<!-- [Check it out](http://devpost.com/software/orchestrai) here.
 If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues). -->
