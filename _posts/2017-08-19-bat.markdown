@@ -28,3 +28,6 @@ To extend learning to home, my team is working on a 6 button system that can tra
 - Assistive Technology
 
 ---
+
+[Check it out](http://ece4012y2017.ece.gatech.edu/fall/sd17f07/index.html) here.
+If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues).
