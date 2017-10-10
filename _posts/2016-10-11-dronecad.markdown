@@ -3,7 +3,7 @@ title: "DroneCAD"
 layout: post
 date: 2016-11-06
 # tag: jekyll
-# image: /assets/images/jekyll-logo-light-solid.png
+image: /img/drone.jpg
 headerImage: true
 projects: true
 coursework: false
