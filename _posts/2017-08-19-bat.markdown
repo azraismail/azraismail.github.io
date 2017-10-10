@@ -3,7 +3,7 @@ title: "B.A.T."
 layout: post
 date: 2017-08-19
 # tag: jekyll
-# image: /assets/images/jekyll-logo-light-solid.png
+image: /img/bat.jpg
 headerImage: true
 projects: true
 coursework: false
