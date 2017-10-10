@@ -8,7 +8,7 @@ title: projects
             <div class="item {% if post.star %}star{% endif %}">
                 {% if post.image %}
                     <div class="image">
-                        <img id="backgroundimage" src="{{post.image}}" border="0" alt=""/>
+                        <img class="backgroundimage" src="{{post.image}}" border="0" alt=""/>
                         <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
                             <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
                             {{ post.jemoji }}
