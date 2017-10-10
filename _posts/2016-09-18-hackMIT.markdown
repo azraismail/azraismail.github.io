@@ -3,7 +3,7 @@ title: "Augmented Paper"
 layout: post
 date: 2016-09-18
 # tag: jekyll
-#image: '<div style="background-image: url("/assets/images/james.jpg")">'
+image: /img/paper.jpg
 headerImage: true
 projects: true
 coursework: false
