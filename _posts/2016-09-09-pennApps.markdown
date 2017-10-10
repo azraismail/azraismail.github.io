@@ -3,7 +3,7 @@ title: "SAFEphilLY"
 layout: post
 date: 2016-09-09
 # tag: jekyll
-# image: /assets/images/jekyll-logo-light-solid.png
+image: /img/safep.png
 headerImage: true
 projects: true
 coursework: false
