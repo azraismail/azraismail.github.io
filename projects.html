@@ -10,7 +10,8 @@ title: projects
                     <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
                     {{ post.jemoji }}
                     <h3 class="title">{{ post.title }}</h3>
-                    <h3 class="description">{{ post.description }}</h3>                
+                    <h3 class="description">{{ post.description }}</h3>     
+                    {% if post.image %}<img id="backgroundimage" src="{{post.image}}" border="0" alt=""/>{% endif %}
                 </a>
             </div>
         {% endif %}
