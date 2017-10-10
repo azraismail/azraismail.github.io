@@ -41,13 +41,18 @@
     > .item:hover
         background-color: #f7f7f7
 
-    > .item > .url
+    > .item > .image > .url
         width: 100%
+        position: absolute
         display: block
         padding: 10px 30px 10px 15px
         text-decoration: none
+    
+    > .item > .image
+        position: relative
+        width: 100%
 
-    > .item > .url > .title
+    > .item > .image > .url > .title
         margin: 20
         width: 100%
         font-size: 1.6rem
@@ -55,10 +60,10 @@
         transition: all ease-in-out .2s
         color: $beta
 
-    > .item:hover > .url > .title
+    > .item:hover > .image > .url > .title
         color: $orangered
 
-    > .item > .url > .description
+    > .item > .image > .url > .description
         margin: 0
         width: 75%
         font-size: 1.4rem
@@ -66,8 +71,9 @@
         transition: all ease-in-out .2s
         color: $gama
        
-    > .item:hover > .url > .description
+    > .item:hover > .image > .url > .description
         color: $beta
+     
 
     // maybe we can't nest html5 elements
     // can you help me?
