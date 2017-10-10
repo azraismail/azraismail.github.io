@@ -3,7 +3,7 @@ title: "Open Source Development"
 layout: post
 date: 2015-09-10
 # tag: jekyll
-# image: /assets/images/jekyll-logo-light-solid.png
+image: /img/2.jpg
 headerImage: true
 projects: true
 coursework: false
