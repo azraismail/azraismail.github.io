@@ -3,7 +3,7 @@ title: "OrchestrAI"
 layout: post
 date: 2016-10-09
 # tag: jekyll
-# image: /assets/images/jekyll-logo-light-solid.png
+image: /img/pen.jpg
 headerImage: true
 projects: true
 coursework: false
