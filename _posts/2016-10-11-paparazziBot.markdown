@@ -3,7 +3,7 @@ title: "SecurityBot"
 layout: post
 date: 2016-12-12
 # tag: jekyll
-# image: /assets/images/jekyll-logo-light-solid.png
+image: /img/bot.jpg
 headerImage: true
 projects: true
 coursework: false
