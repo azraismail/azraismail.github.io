@@ -43,12 +43,12 @@
     
     > .item > .image
         position: relative
-        width: 100%
+        width: 50%
         
     > .item > .image > .url
         width: 100%
         position: absolute   
-        top: 0px
+        top: 50px
         left: 0
         display: block
         padding: 10px 30px 10px 15px
@@ -64,6 +64,9 @@
 
     > .item:hover > .image > .url > .title
         color: $orangered
+        
+    > .item:hover > .image
+        background-color: $orangered
 
     > .item > .image > .url > .description
         margin: 0
