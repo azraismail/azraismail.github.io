@@ -3,7 +3,7 @@ title: "Electromagnetic Measurements in Communications and Computing"
 layout: post
 date: 2015-08-16
 # tag: jekyll
-# image: /assets/images/jekyll-logo-light-solid.png
+image: /img/zajic.jpg
 headerImage: true
 projects: false
 coursework: false
