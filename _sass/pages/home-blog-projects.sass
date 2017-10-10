@@ -52,6 +52,7 @@
         display: block
         padding: 10px 30px 10px 15px
         text-decoration: none
+        opacity: 0
 
     > .item > .image > .url > .title
         margin: 20
@@ -60,9 +61,11 @@
         font-weight: 500
         transition: all ease-in-out .2s
         color: $beta
+        opacity: 0
 
     > .item:hover > .image > .url > .title
         color: $orangered
+        opacity: 1
         
     > .item:hover > .image
         opacity: 0
@@ -77,6 +80,7 @@
        
     > .item:hover > .image > .url > .description
         color: $beta
+        opacity: 1
      
 
     // maybe we can't nest html5 elements
