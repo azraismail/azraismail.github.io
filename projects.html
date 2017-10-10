@@ -6,16 +6,15 @@ title: projects
     {% for post in site.posts %}
         {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
+                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                    {{ post.jemoji }}
+                    <h3 class="title">{{ post.title }}</h3>
+                    <h3 class="description">{{ post.description }}</h3>     
+                </a>
                 {% if post.image %}
-                    <img id="backgroundimage" src="{{post.image}}" border="0" alt="">
-                    <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                        <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                        {{ post.jemoji }}
-                        <h3 class="title">{{ post.title }}</h3>
-                        <h3 class="description">{{ post.description }}</h3>     
-                    </a>
-                    </img>
-                {% endif %}
+                    <img id="backgroundimage" src="{{post.image}}" border="0" alt="">TEST</img>
+                {% endif %}                
             </div>
         {% endif %}
     {% endfor %}
