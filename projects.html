@@ -12,7 +12,7 @@ title: projects
                     <h3 class="title">{{ post.title }}</h3>
                     {{ post.image }}
                     <h3 class="description">{{ post.description }}</h3>
-                    <a class="background {% if post.image %}image{% endif %}">
+                    <a class="image {% if post.image %}<background-image="url({{post.image}})">{% endif %}">
                 </a>
             </div>
         {% endif %}
