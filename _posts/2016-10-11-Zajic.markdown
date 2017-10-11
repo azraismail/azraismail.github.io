@@ -1,5 +1,5 @@
 ---
-title: "Electromagnetic Measurements in Communications and Computing"
+title: "Electromagnetic Measurements in Communications & Computing"
 layout: post
 date: 2015-08-16
 # tag: jekyll
