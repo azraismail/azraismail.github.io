@@ -3,7 +3,7 @@ title: "Traveling Salesman on FPGA bot"
 layout: post
 date: 2015-12-1
 # tag: jekyll
-# image: /assets/images/jekyll-logo-light-solid.png
+image: /img/de2bot.jpg
 headerImage: true
 projects: true
 coursework: false
