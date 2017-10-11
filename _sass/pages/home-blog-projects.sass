@@ -14,7 +14,7 @@
         list-style: none
 
         &:before
-            display: inline
+            display: block
             content: " "
             width: 7px
             height: 7px
@@ -34,13 +34,14 @@
 .coursework > .list,
 .projects > .list
     > .item
-        display: inline
-        width: 40%
+        display: inline-block
+        float: left
+        width: 100%
         margin: 0
     
     > .item > .image
         position: relative
-        width: 40%
+        width: 100%
         
     > .item > .image > .url
         position: absolute
