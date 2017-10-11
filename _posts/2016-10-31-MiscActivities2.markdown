@@ -1,7 +1,7 @@
 ---
 title: "Traveling Salesman on FPGA bot"
 layout: post
-date: 2015-12-1
+date: 2015-09-08
 # tag: jekyll
 image: /img/de2bot.jpg
 headerImage: true
