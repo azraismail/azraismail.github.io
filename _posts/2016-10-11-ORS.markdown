@@ -3,7 +3,7 @@ title: "Ubiquitous Computing Group"
 layout: post
 date: 2017-01-08
 # tag: jekyll
-# image: /assets/images/jekyll-logo-light-solid.png
+image: /img/cosmos.png
 headerImage: true
 projects: false
 coursework: false
