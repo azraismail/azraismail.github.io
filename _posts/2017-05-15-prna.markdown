@@ -3,7 +3,7 @@ title: "Philips Research North America"
 layout: post
 date: 2017-05-15
 # tag: jekyll
-# image: /assets/images/jekyll-logo-light-solid.png
+image: /img/prna.jpg
 headerImage: true
 projects: false
 coursework: false
