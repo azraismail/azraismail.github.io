@@ -3,7 +3,7 @@ title: "Technology and Design for Empowerment"
 layout: post
 date: 2016-04-20
 # tag: jekyll
-# image: /assets/images/jekyll-logo-light-solid.png
+image: /img/kumar.jpg
 headerImage: true
 projects: false
 coursework: false
@@ -15,9 +15,7 @@ author: azra-ismail
 externalLink: false
 
 ---
-I am currently working on building diagnostic tools for neonatal and maternal health in low-resource settings. The system will take the form of a low-powered device that can connect to a mobile phone and provide results through an app. The initial prototype will monitor temperature, heartbeat and breathing pattern to identify anomalies.
-
-This work builds on my research over summer 2016, where I carried out an ethnographic study in Delhi (India), to understand people's motivations and experiences in accessing the healthcare system, with a focus on underserved populations. I conducted interviews and observational studies with doctors, staff, frontline health workers and users. In the process, I learned about user-centered design, conducting qualitative research and best practices in ICTD.
+I am currently working on developing tools that use data analytics to inform the implementation of health interventions in low-resource environments. This work builds on my research over summer 2016, where I carried out an ethnographic study in Delhi (India), to understand people's motivations and experiences in accessing the healthcare system, with a focus on underserved populations. I conducted interviews and observational studies with doctors, staff, frontline health workers and users. In the process, I learned about user-centered design, conducting qualitative research and best practices in ICTD.
 
 Advised by: Dr. Neha Kumar
 
