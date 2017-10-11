@@ -9,7 +9,6 @@ title: Home
 <br>
 <br>
 <br>
-<br>
 <h1 id="about">About me</h1>
 <hr>
 
@@ -33,33 +32,29 @@ My research interests lie at the intersection of global health and technology de
 </ul>
 
 <br>
-<br>
 <h1 id="projects">Projects</h1>
 
 <div class="myprojects">
-<section class="list">
-    {% for post in site.posts %}
-        {% if post.projects %}
-            <div class="item {% if post.star %}star{% endif %}">
-                {% if post.image %}
-                    <div class="image">
-                        <img class="backgroundimage" src="{{post.image}}" border="0" alt=""/>
-                        <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                            <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                            {{ post.jemoji }}
-                            <h3 class="title">{{ post.title }}</h3>
-                            <h3 class="description">{{ post.description }}</h3>     
-                        </a>
-                    </div>
-                {% endif %}      
-            </div>
-        {% endif %}
-    {% endfor %}
-</section>
+	<section class="list">
+		{% for post in site.posts %}
+			{% if post.projects %}
+				<div class="item {% if post.star %}star{% endif %}">
+					{% if post.image %}
+						<div class="image">
+							<img class="backgroundimage" src="{{post.image}}" border="0" alt=""/>
+							<a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+								<aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+								{{ post.jemoji }}
+								<h3 class="title">{{ post.title }}</h3>
+								<h3 class="description">{{ post.description }}</h3>     
+							</a>
+						</div>
+					{% endif %}      
+				</div>
+			{% endif %}
+		{% endfor %}
+	</section>
 </div>
-
-<p></p>
-
 
 <br>
 <br id="awards">
@@ -78,35 +73,30 @@ My research interests lie at the intersection of global health and technology de
 	<li><strong>HackDuke 2015</strong>: First Runner-Up (Health Track), Best Use of IBM BlueMix for 'Drink and D-rive'</li>
 </ul>
 
-
-<br>
 <br>
 <h1 id="research">Research</h1>
 
 <div class="myresearch">
-<section class="list">
-    {% for post in site.posts %}
-        {% if post.research %}
-            <div class="item {% if post.star %}star{% endif %}">
-                {% if post.image %}
-                    <div class="image">
-                        <img class="backgroundimage" src="{{post.image}}" border="0" alt=""/>
-                        <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                            <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                            {{ post.jemoji }}
-                            <h3 class="title">{{ post.title }}</h3>
-                            <h3 class="description">{{ post.description }}</h3>     
-                        </a>
-                    </div>
-                {% endif %}      
-            </div>
-        {% endif %}
-    {% endfor %}
-</section>
+	<section class="list">
+		{% for post in site.posts %}
+			{% if post.research %}
+				<div class="item {% if post.star %}star{% endif %}">
+					{% if post.image %}
+						<div class="image">
+							<img class="backgroundimage" src="{{post.image}}" border="0" alt=""/>
+							<a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+								<aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+								{{ post.jemoji }}
+								<h3 class="title">{{ post.title }}</h3>
+								<h3 class="description">{{ post.description }}</h3>     
+							</a>
+						</div>
+					{% endif %}      
+				</div>
+			{% endif %}
+		{% endfor %}
+	</section>
 </div>
-
-<p></p>
-
 
 <br>
 <br>
