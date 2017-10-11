@@ -3,7 +3,7 @@ title: "Embedded Pervasive Lab"
 layout: post
 date: 2016-02-01
 # tag: jekyll
-# image: /assets/images/jekyll-logo-light-solid.png
+image: /img/fog.png
 headerImage: true
 projects: false
 coursework: false
