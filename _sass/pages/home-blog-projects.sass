@@ -41,8 +41,7 @@
     
     > .item > .image
         position: relative
-        width:  100px;
-        height: 100px;
+        width:  100%
         
     > .item > .image > .url
         position: absolute
@@ -60,6 +59,10 @@
         transition: all ease-in-out .2s
         color: $beta
         opacity: 0
+        
+    > .item > .image > .backgroundimage
+        width:  100px
+        height: 100px
 
     > .item:hover > .image > .url > .title
         color: $orangered
