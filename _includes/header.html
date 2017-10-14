@@ -28,8 +28,6 @@
 
 </script>
 
-{% include nav.html %}
-
 {% if page.title == "Home"
    or page.title == "Blog"
    or page.title == "Projects"
@@ -38,6 +36,8 @@
    or page.title == "Coursework"
    or page.title == "Tags"
 %}{% assign showHeader = true %}{% endif %}
+
+{% include nav.html %}
 
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
