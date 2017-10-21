@@ -5,7 +5,7 @@ date: 2015-09-08
 # tag: jekyll
 image: /img/de2bot.jpg
 headerImage: true
-projects: true
+projects: false
 coursework: false
 research: false
 awards: false
