@@ -3,7 +3,7 @@ title: "Drink and D-rive"
 layout: post
 date: 2015-11-10
 # tag: jekyll
-image: /img/1.jpg
+image: /img/drink.jpg
 headerImage: true
 projects: true
 coursework: false
