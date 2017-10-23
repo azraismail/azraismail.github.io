@@ -5,7 +5,7 @@ date: 2015-09-10
 # tag: jekyll
 image: /img/osd.png
 headerImage: true
-projects: true
+projects: false
 coursework: false
 research: false
 awards: false
