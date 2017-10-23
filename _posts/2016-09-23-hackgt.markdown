@@ -3,7 +3,7 @@ title: "Paperless"
 layout: post
 date: 2016-09-23
 # tag: jekyll
-# image: /assets/images/jekyll-logo-light-solid.png
+image: /img/pen.png
 headerImage: true
 projects: true
 coursework: false
