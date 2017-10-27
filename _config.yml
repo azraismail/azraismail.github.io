@@ -1,8 +1,6 @@
 # main text of home
 name: Azra Ismail
 bio: Reimagining how people and systems interact
-# bio: Hacker | People watcher | 
-# bio: Rethinking systems and people 
 
 # twitter summary info
 description: A summary of my work
@@ -13,7 +11,7 @@ external-image: false
 picture: assets/images/profile.jpg
 
 # url: https://koppl.in/indigo
-url: http://azraismail.github.io
+url: http://azraismail.me
 
 permalink: /:title/
 
@@ -31,7 +29,7 @@ highlighter: rouge
 disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: azra.ismail.904
+#facebook: azra.ismail.904
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
