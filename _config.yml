@@ -11,7 +11,7 @@ external-image: false
 picture: assets/images/profile.jpg
 
 # url: https://koppl.in/indigo
-url: http://azraismail.github.io
+url: https://azraismail.github.io
 
 permalink: /:title/
 
