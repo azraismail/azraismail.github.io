@@ -15,7 +15,7 @@ author: azra-ismail
 externalLink: false
 
 ---
-I am currently working on developing tools that use data analytics to inform the implementation of health interventions in low-resource environments. This work builds on my research over summer 2016, where I carried out an ethnographic study in Delhi (India), to understand people's motivations and experiences in accessing the healthcare system, with a focus on underserved populations. I conducted interviews and observational studies with doctors, staff, frontline health workers and users. In the process, I learned about user-centered design, conducting qualitative research and best practices in ICTD.
+I am currently working on developing tools that use data analytics to inform the implementation of health interventions in low-resource environments. This work builds on my research over summer 2016, where I carried out an ethnographic study in Delhi (India), to understand people's motivations and experiences in accessing the healthcare system, with a focus on underserved populations. I conducted interviews and observational studies with doctors, staff, frontline health workers and users. In the process, I learned about user-centered design, conducting qualitative research and best practices in ICTD. This project is in collaboration with CARE Atlanta (NGO) and Carnegie Mellon University.
 
 Advised by: Dr. Neha Kumar
 
