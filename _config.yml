@@ -2,6 +2,6 @@ title: Azra Ismail
 logo: /assets/img/profile.jpeg
 description: (she, her, hers)
 
-show_downloads: true
+show_downloads: false
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
