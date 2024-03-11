@@ -2,6 +2,10 @@ title: AZRA ISMAIL
 logo: /assets/img/profile.jpeg
 description: 
 
-show_downloads: false
+show_downloads: true
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
+
+yml
+    github:
+      cv_url: https://drive.google.com/file/d/1qvgIfxNNVbAS6QnEhjJhLEYRE1bGqD0w/view?usp=sharing
