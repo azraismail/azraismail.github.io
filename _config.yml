@@ -6,6 +6,9 @@ show_downloads: false
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
 
-yml
-    github:
-      cv_url: https://drive.google.com/file/d/1qvgIfxNNVbAS6QnEhjJhLEYRE1bGqD0w/view?usp=sharing
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+github:
+  cv_url: https://drive.google.com/file/d/1qvgIfxNNVbAS6QnEhjJhLEYRE1bGqD0w/view?usp=sharing
+
