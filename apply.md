@@ -15,11 +15,11 @@ I am particularly interested in research with communities in the Atlanta (GA) an
 
 ### Prospective PhD students
 
-Apply to the Ph.D. in Computer Science and Informatics at Emory University here. The deadline for the next cycle of applications is January 1st, 2024. You can review the program expectations and application requirements on this link (Emory does NOT require a GRE score!). The program is fully funded if you are accepted, and Emory has application fee waivers available on request in case of financial hardship. Additionally, send me an email that briefly describes your research interests, the institution and program that you are affiliated with, current advisors (if any), and your CV.
+Apply to the Ph.D. in Computer Science and Informatics at Emory University. The deadline for the next cycle of applications is January 1st, 2024. You can review the program expectations and application requirements on this link (Emory does NOT require a GRE score!). The program is fully funded if you are accepted, and Emory has application fee waivers available on request in case of financial hardship. Additionally, send me an email that briefly describes your research interests, the institution and program that you are affiliated with, current advisors (if any), and your CV.
 
 ### Postdocs
 
-Apply using this link! Please also send me an email about your research interests along with your CV, and link to publications.
+Please send me an email about your research interests along with your CV, and link to publications.
 
 ### Current students at Emory or Georgia Tech
 
@@ -29,4 +29,4 @@ Already a graduate or undergraduate student at Emory or Georgia Tech? Send me an
 
 Send me an email mentioning your research interests, the program that you are affiliated with, current advisors (if any), and your CV. Funded opportunities are not available, but happy to have a chat if there’s a strong alignment in research interests!
 
-[back](./)
+[Back to Home](./)
