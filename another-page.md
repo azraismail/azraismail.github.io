@@ -1,7 +1,3 @@
----
-layout: default
----
-
 I am building an interdisciplinary lab across Emory and Georgia Tech, and I am actively recruiting students and postdocs interested in HCI (human-computer interaction), computing or informatics, public health, and nursing. Please see the guidelines below if you are interested, and take a look at my past publications to determine if there’s a good fit. My email is azra.ismail AT emory.edu. Given the volume of emails, it is difficult for me to respond to every student. I will be prioritizing emails from students at Emory and Georgia Tech, and those that are responsive to the interests listed below. <br>
 
 I am passionate about supporting students coming from backgrounds that have been systemically excluded from academia (across race, gender, caste, class, ability, and more). Reach out if the mission of the lab strongly resonates with you!
