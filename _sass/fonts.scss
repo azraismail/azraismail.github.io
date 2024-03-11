@@ -53,3 +53,12 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
+
+@font-face {
+  font-family: 'Assistant', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  src: url('https://fonts.googleapis.com/css2?family=Assistant:wght@200..800&display=swap');
+}
+
